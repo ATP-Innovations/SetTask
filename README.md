@@ -10,4 +10,4 @@
 
 [Bulat Khungureev](https://github.com)
 
-Group 38 - COMP3097 Mobie App Dev - Winter 2024
+Group 38 - Winter 2024 - COMP3097-0001 - Mobie Application Development
